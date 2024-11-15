@@ -1,5 +1,5 @@
 # DarkCite
-The Dark Side of Trust: Authority Citation-Driven Jailbreaking Attacks on Large Language Models
+The Dark Side of Trust: Authority Citation-Driven Jailbreak Attacks on Large Language Models
 
 ---
 
