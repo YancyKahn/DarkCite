@@ -25,4 +25,11 @@ python main.py --target_model "llama-2-7b" --judge_model "llama-guard-3" --nums_
 
 ## Citation
 
-coming soon ...
+```
+@article{yang2024dark,
+  title={The Dark Side of Trust: Authority Citation-Driven Jailbreak Attacks on Large Language Models},
+  author={Yang, Xikang and Tang, Xuehai and Han, Jizhong and Hu, Songlin},
+  journal={arXiv preprint arXiv:2411.11407},
+  year={2024}
+}
+```
